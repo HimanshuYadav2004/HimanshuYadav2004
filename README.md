@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuyadav2004&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuyadav2004" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/devhimanshu2004" target="blank"><img src="https://img.shields.io/twitter/follow/devhimanshu2004?logo=twitter&style=for-the-badge" alt="devhimanshu2004" /></a> </p>
 
-- 🔭 I’m currently working on **Front-End Technologies**
+- 🔭 I’m currently working on **Full Stack Technologies like python , node , react and mongodb**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m passionate for web technologies and love to use **Javascript** for making **anything**
 
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **hy2675341@gmail.com**
 
-- ⚡ Fun fact **I Like Think I am Funny**
+- ⚡ Fun fact **I Think I am Funny and have good sense of humour :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
